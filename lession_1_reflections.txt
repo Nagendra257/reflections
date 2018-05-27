@@ -54,5 +54,15 @@ git merge frist branch second branch
 To differnce between commit with different parents 
 git show commit1
 If you have conflict with merge got the file remove head part merged code leave the rest
+git reset --hard commit3
+To check remote
+git remote
+To add remote
+git remote add (name1) (url in github)
+To find the url and data
+git remote -v
+To push data
+git push (name of remote) (local branch)
+
 
 
