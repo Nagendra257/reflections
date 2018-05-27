@@ -62,7 +62,7 @@ git remote add (name1) (url in github)
 To find the url and data
 git remote -v
 To push data
-git push (name of remote) (local branch)
+git push (name of remote) (local branch){go to the file and push the data.}
 
 
 
