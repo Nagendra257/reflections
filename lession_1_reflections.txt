@@ -63,6 +63,7 @@ To find the url and data
 git remote -v
 To push data
 git push (name of remote) (local branch){go to the file and push the data.}
-
+To pull the code fro the github to machine
+git pull (name of remote) (local branch){go to the file and push the data.}
 
 
