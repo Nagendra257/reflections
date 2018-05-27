@@ -10,6 +10,7 @@ cd reflections                # go to reflections directory
 subl lesson_1_reflections.txt # launch sublime with file called lesson_1_reflections.txt (you can replace subl with another editor here if you prefer a different one)
 pwd # print working directory - shows what directory you are in
 ls  # list the files in this directoryor ls -a for hidden files
+A git repository is a collection of files that are tracked by Git as a cohesive unit 
 cd version-control/asteroids/
 git log
 git log --stat
@@ -39,7 +40,7 @@ git config --global user.email "you@example.com"
   git config --global user.name "Your Name"
 To not commit and reset 
 git reset --hard
-to view the brach 
+to view the branch 
 git branch
 To create branch
 git branch "name"
